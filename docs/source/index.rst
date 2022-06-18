@@ -1,8 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to BIDSconvertR's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**BIDSconvertR** is an R package for DICOM to BIDS conversion.
+
+It uses dcm2niix by Chris Rorden and covers the whole workflow from DICOM over NIfTI to BIDS.
+
+IT has a minimal use of terminal interaction and supports GUI's for sequence mapping and visual QC of the data.
+
+
+
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
