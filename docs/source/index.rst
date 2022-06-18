@@ -1,5 +1,5 @@
 Welcome to BIDSconvertR's documentation!
-===================================
+========================================
 
 **BIDSconvertR** is an R package for DICOM to BIDS conversion.
 
