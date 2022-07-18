@@ -2,7 +2,6 @@ version: 2
 
 python:
   # Install our python package before building the docs
-  version: 3.7
   requirements: docs/requirements.txt
   install:
     - method: pip
