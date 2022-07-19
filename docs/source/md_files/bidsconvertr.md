@@ -14,8 +14,8 @@
 
 [![DOI](https://zenodo.org/badge/195199025.svg)](https://zenodo.org/badge/latestdoi/195199025)
 
-```{image} ../../inst/figure/BIDSconvertR.png
-:alt: fishy
+```{image} ../../../inst/figure/BIDSconvertR.png
+:alt: BIDSconvertR logo
 :height: 150px
 :align: right
 ```
