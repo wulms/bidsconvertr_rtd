@@ -18,7 +18,7 @@ Now the ‘sequence_mapper’ should start showing the following interface:
 
 
 
-![Sequence mapper](../../inst/figure/sequence_mapper.PNG)
+![Sequence mapper](../../../inst/figure/sequence_mapper.PNG)
 
 
 You have to edit each entry according to the BIDS specification. Some
@@ -44,7 +44,7 @@ specification. Then you click “save” and close the ‘sequence mapper’.
     rest of the workflow.
 
 ![The color-coding of the Sequence Mapper. Can you find out, why some
-rows are still red?](../../inst/figure/sequence_mapper_validity.png)
+rows are still red?](../../../inst/figure/sequence_mapper_validity.png)
 
 The ‘matched’ column shows, when a sequence was detected as BIDS
 compliant. If your sequence is in the ‘unmatched’ column investigate
@@ -66,5 +66,5 @@ If everything is fine:
 
 4.  A Shiny viewer is started to visually inspect the images.
 
-![BIDS viewer](../../inst/figure/bids_viewer.PNG)
+![BIDS viewer](../../../inst/figure/bids_viewer.PNG)
 

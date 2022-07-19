@@ -24,7 +24,7 @@ Just read
 [here](https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage)
 or inspect the possible arguments from this image:
 
-![](../../inst/figure/dcm2niix_arguments.JPG)
+![](../../../inst/figure/dcm2niix_arguments.JPG)
 
 dcm2niix_argument_string \<- “-ba y -f %d -z y -w 0 -i y”
 
