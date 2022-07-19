@@ -5,6 +5,7 @@
 - Download the BIDScoin example data [bidscoin](https://github.com/Donders-Institute/bidscoin): [Download here](https://surfdrive.surf.nl/files/index.php/s/HTxdUbykBZm2cYM/download). Please note, that the data is compressed twice with gunzip (suffix: '.gz') and tar (suffix: '.tar'). You need to unpack both.
 - Create a new folder (e.g. `bidscoin\example`) and copy the `raw` subject folders into it. 
 - [Install R](https://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download/}{https://www.rstudio.com/products/rstudio/download/).
+- Follow the [instructions](installation.md) to install Windows or Linux specific dependendies.
 
 ### Workflow inside of R: Installation of packages
 

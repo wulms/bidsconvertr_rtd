@@ -82,9 +82,15 @@ So, if you are able to rename and restructure the folders according to BIDS manu
    md_files/workflow.md
    md_files/usage_notes_advanced.md
 
+.. toctree:
+   :maxdepth: 1
+   :caption: Tutorial
+
+   md_files/tutorial.md
+
 .. toctree::
    :maxdepth: 1
-   :caption: Additional information
+   :caption: Additional information:
 
    md_files/user_settings_file
    md_files/dcm2niix.md
