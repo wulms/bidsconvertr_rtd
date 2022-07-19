@@ -37,9 +37,7 @@ Everytime files or sequences are added, the ‘sequence mapper’ checks if they
 Then opens again until everything is declared according to BIDS.
 Already processed files are skipped.
 
-.. important:: What this is not
 
-    A full-automated workflow, that does everything for you.
 
 Technical requirements
 ------------------------
@@ -47,8 +45,14 @@ Technical requirements
 * Microsoft 10 and Ubuntu 22.04 supported and tested.
     * MacOS: Not tested, but should work. Maybe you can try it out and contact me, if there are any issues.
 
+
+
 What the user needs to know to apply the BIDSconvertR
 ----------------------------------------------------------
+
+.. important:: What this is not:
+
+    A full-automated workflow, that does everything for you. You need to bring a minimum of background knowledge on files, folders and DICOMS, as described below.
 
 * What is a folder or file? Where is my data?
 * What is a folder, containing DICOMS?
