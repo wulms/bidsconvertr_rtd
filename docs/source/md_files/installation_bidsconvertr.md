@@ -1,4 +1,4 @@
-## Install the BIDSconvertR
+# Install the BIDSconvertR
 
 ```{Note} 
 Please install R according to the description. From here on enter the following commands into the 'console' panel in RStudio.

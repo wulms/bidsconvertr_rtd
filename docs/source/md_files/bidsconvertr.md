@@ -1,6 +1,6 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## BIDSconvertR 
+# BIDSconvertR 
 
 
 <!-- <figure>-->
@@ -29,7 +29,7 @@ Link](https://www.flaticon.com/free-icons/mri).
 <!-- badges: end -->
 
 
-### Aim
+## Aim
 
 The goal of BIDSconvertR is to provide a workflow, which is able to:
 
@@ -47,7 +47,7 @@ The goal of BIDSconvertR is to provide a workflow, which is able to:
 -   enable continuous application during data acquisition in ongoing
     studies
 
-### Features
+## Features
 
 Renaming of unclean subject-ID’s or session-ID’s.
 
@@ -57,7 +57,7 @@ files are skipped.
 
 
 
-### Citation 
+## Citation 
 
 Wulms, Niklas. 2022. *Wulms/Bidsconvertr*. Zenodo.
 <https://doi.org/10.5281/ZENODO.5878407>.

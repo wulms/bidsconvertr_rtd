@@ -1,6 +1,6 @@
-## Usage notes
+# Usage notes
 
-### Input data
+## Input data
 
 The input data needs to be in the following structure:
 
@@ -17,7 +17,7 @@ The input data needs to be in the following structure:
             per subject, e.g. “00001”, “00002”
     - in case of other logical structures: Please contact me, so that I can include them.
 
-### Starting the tool
+## Starting the tool
 
 ``` r
 # loading the library, the 'quietly' argument turns off the messages about loading other dependencies.
@@ -35,7 +35,7 @@ The `user_settings.R` file contains your selected options (folders, filename con
 You don't have to edit these manually, instead you are guided through the procedure with our user dialog.
 ```
 
-#### Do you have a user settings file?
+### Do you have a user settings file?
 
 | Option | What happens?                                                                                                       |
 |--------|---------------------------------------------------------------------------------------------------------------------|
@@ -43,12 +43,14 @@ You don't have to edit these manually, instead you are guided through the proced
 | No     | Creates your user settings file (described below).                                                                  |
 
 
-##### Yes: Selection for your ‘user settings’ file.
+#### Yes: Selection for your ‘user settings’ file.
 
 You select the file in the file selection window. This can be anywhere on
 your filesystem. This file stores your settings, so that you can run this file continuously during the acquisition of data.
 
-##### No: Starts user dialog to create 'user settings' file.
+#### No: 
+
+Starts user dialog to create 'user settings' file.
 
 
 

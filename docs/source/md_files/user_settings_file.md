@@ -1,4 +1,4 @@
-## What is in my ‘user_settings.R’ file?
+# What is in my ‘user_settings.R’ file?
 
 You can also edit the file “user_settings.R” manually to your needs.
 

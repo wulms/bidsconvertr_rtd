@@ -1,4 +1,4 @@
-## Advanced features
+# Advanced features
 
 ```{Note} 
 This part is optional. 
@@ -17,7 +17,7 @@ and session-ID’s you can skip this procedure by selecting:
 | Yes                           | Set a subject-ID regular expression or set a string, prefix, suffix or regular expression, which is then removed from each subject-ID.  |
 
 
-### Resources for regular expressions
+## Resources for regular expressions
 
 For more information on regular expressions (regex) please see the
 [stringR cheat
@@ -31,18 +31,15 @@ your data. If you encounter any problems just contact me via mail or via
 the issues in this repository.
 
 
-
-
-
 These both functions should give you enough flexibility to clean up your
 filenames and modify your regular expression step by step.
 
 
-### Useful regular expressions
+## Useful regular expressions
 
 The subject-ID is from the folder name. If no regular expression is used, the subject-ID remains unchanged.
 
-#### Regular expression: subject-ID 
+### Regular expression: subject-ID 
 
 These regular expression extracts the subject-ID from the input string. This can be used, if you had a clear defined naming convention for all your files.
 
@@ -59,7 +56,7 @@ These regular expression extracts the subject-ID from the input string. This can
 
 Examples of subject-ID regular expressions
 
-#### Regular expression: pattern to remove
+### Regular expression: pattern to remove
 
 | subject-ID                   | regular expression              | described in words                                   | output subject-ID |
 |------------------------------|---------------------------------|------------------------------------------------------|-------------------|
@@ -77,7 +74,7 @@ Examples of ‘patterns to remove’ regular expressions
 
 
 
-### Do you want to edit your session-ID’s?
+## Do you want to edit your session-ID’s?
 
 You are now able to edit your session-ID’s. You decide, if you want to
 keep or rename them.

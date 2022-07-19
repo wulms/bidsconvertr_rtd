@@ -1,11 +1,11 @@
-## Start of the workflow 
+# Start of the workflow 
 
 Based on the inputs your data is converted via dcm2niix into NifTI
 format.
 
 All JSON headers are read out and merged together.
 
-### The sequence mapper GUI
+## The sequence mapper GUI
 
 The unique sequence-ID’s are extracted and the Sequence Mapper is
 launched.
@@ -50,7 +50,7 @@ The ‘matched’ column shows, when a sequence was detected as BIDS
 compliant. If your sequence is in the ‘unmatched’ column investigate
 each letter of the filename.
 
-### BIDS dataset & validation
+## BIDS dataset & validation
 
 If everything is fine:
 

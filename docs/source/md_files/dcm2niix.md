@@ -1,6 +1,6 @@
-## dcm2niix customisation
+# dcm2niix customisation
 
-### installation of other versions
+## installation of other versions
 
 The “convert_to_BIDS()” function automatically uses the tested
 “v1.0.20211006” of dcm2niix. Other versions can be installed by changing
@@ -16,7 +16,7 @@ run the “install_dcm2niix()” version with your version number.
 install_dcm2niix("v1.0.20181125") # if you want to install the specific version v1.0.20181125
 ```
 
-### using other arguments
+## using other arguments
 
 You can edit the dcm2niix_argument_string in the “user_settings.R” file according to your needs.
 
