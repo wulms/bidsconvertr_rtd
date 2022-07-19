@@ -88,7 +88,7 @@ So, if you are able to rename and restructure the folders according to BIDS manu
 
 .. toctree::
    :maxdepth: 1
-   :caption: Tutorial
+   :caption: Tutorial:
 
    md_files/tutorial.md
 
