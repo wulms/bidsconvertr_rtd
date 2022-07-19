@@ -28,7 +28,7 @@ data.
 
 ### Is your DICOM data structured as ‘session/subject’ or ‘subject/session’.
 
-The tool extracts extracts the subject- and session-ID’s based on these
+The tool extracts extracts the subject- and session-ID’s based on this
 order. The terminal shows the folders.
 
 Please note: Any subject- or session-ID’s are possible! Also without
@@ -42,7 +42,7 @@ Please note: Any subject- or session-ID’s are possible! Also without
 
 Select the option according to your data, which is shown in the terminal.
 
-### Were subject-ID’s and session-ID’s extracted the right way?
+### Were subject-ID’s and session-ID’s extracted correctly?
 
 The terminal shows a table with a “subject” and a “session” column. Are these looking valid?
 

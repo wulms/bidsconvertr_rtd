@@ -5,6 +5,8 @@ format.
 
 All JSON headers are read out and merged together.
 
+### The sequence mapper GUI
+
 The unique sequence-ID’s are extracted and the Sequence Mapper is
 launched.
 
@@ -48,13 +50,15 @@ The ‘matched’ column shows, when a sequence was detected as BIDS
 compliant. If your sequence is in the ‘unmatched’ column investigate
 each letter of the filename.
 
+### BIDS dataset & validation
+
 If everything is fine:
 
 1.  The files are copied to BIDS.
 
 2.  The BIDS validation is started. Via Docker, if it is installed on
     your local machine, otherwise the online-version is launched and you
-    have to select your folder manually.
+    have to select your folder manually. Files are never uploaded to the BIDS-Validator.
 
 3.  You are asked, if you want to delete temporary images from your hard
     drive. Don’t do this manually! Do this only, when you have validated

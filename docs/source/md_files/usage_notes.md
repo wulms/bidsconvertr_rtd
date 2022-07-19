@@ -15,6 +15,7 @@ The input data needs to be in the following structure:
         -   one folder per session, e.g. “session_1”, “session_2”
         -   these folders containing the DICOM data in separate folders
             per subject, e.g. “001”, “002”
+    - in case of other logical structures: Please contact me, so that I can include them.
 
 ### Starting the tool
 
