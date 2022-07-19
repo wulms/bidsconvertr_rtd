@@ -1,8 +1,8 @@
-# BIDScoin data tutorial
+# Tutorial
 
-This procedure should demonstrate the application of the BIDSconvertR. We thank the [BIDScoin](https://github.com/Donders-Institute/bidscoin) team, who provided their sample data.
+This procedure should demonstrate the application of the BIDSconvertR. We thank the [BIDScoin](https://github.com/Donders-Institute/bidscoin) team, who allowed us to use their sample data.
 
-## The installation procedure: 
+## The installation procedure
 
 Downloading example data and installation of R and RStudio:
 
@@ -10,7 +10,7 @@ Downloading example data and installation of R and RStudio:
 - Download the [BIDScoin](https://github.com/Donders-Institute/bidscoin) example data : [Download here](https://surfdrive.surf.nl/files/index.php/s/HTxdUbykBZm2cYM/download). Please note, that the data is compressed twice with gunzip (suffix: '.gz') and tar (suffix: '.tar'). You need to unpack both.
 - Create a new folder (e.g. `bidscoin\example`) and copy the `raw` subject folders into it. 
 
-## The BIDSconvertR workflow:
+## The BIDSconvertR workflow
 
 Covering all steps of the basid BIDSconvertR workflow:
 
@@ -44,6 +44,5 @@ Covering all steps of the basid BIDSconvertR workflow:
 | field_map_2p5iso_e2_ph	            | acq-2p5_phasediff	                | fmap	| 1 |
 
 
-![BIDS viewer](../../../inst/figure/BIDScoin_Data_sequence_mapper.PNG)
 
 Now the data is automatically saved into BIDS, the BIDS validator is started and the 'Shiny BIDS viewer' starts.
