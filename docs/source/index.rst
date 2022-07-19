@@ -69,6 +69,7 @@ So, if you are able to rename and restructure the folders according to BIDS manu
 
    md_files/bidsconvertr.md
 
+
 .. toctree::
    :maxdepth: 1
    :caption: Installation:
@@ -86,11 +87,13 @@ So, if you are able to rename and restructure the folders according to BIDS manu
    md_files/workflow.md
    md_files/usage_notes_advanced.md
 
+
 .. toctree::
    :maxdepth: 1
    :caption: Tutorial:
 
    md_files/tutorial.md
+
 
 .. toctree::
    :maxdepth: 1

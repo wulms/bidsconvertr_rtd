@@ -14,7 +14,7 @@ The input data needs to be in the following structure:
         -   cross-sectional (one folder named ‘baseline’ or else)
         -   one folder per session, e.g. “session_1”, “session_2”
         -   these folders containing the DICOM data in separate folders
-            per subject, e.g. “001”, “002”
+            per subject, e.g. “00001”, “00002”
     - in case of other logical structures: Please contact me, so that I can include them.
 
 ### Starting the tool
