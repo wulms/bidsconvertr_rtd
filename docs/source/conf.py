@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'bidsconvertr'
-copyright = '2022, First Last'
-author = 'First Last'
+project = 'BIDSconvertR'
+copyright = '2022, Niklas Wulms'
+author = 'Niklas Wulms'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
